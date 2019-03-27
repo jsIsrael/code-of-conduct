@@ -1,4 +1,4 @@
-# JavaScript Israel's code-of-conduct
+# JavaScript Israel's Code Of Conduct
 
 ## Be kind, respectful and patient
 We're all in this together to create a welcoming environment. Let's treat everyone with respect. Healthy debates are natural, but kindness is required.
